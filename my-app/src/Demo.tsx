@@ -3,7 +3,7 @@ import React from 'react'
 export default function Demo() {
   return (
     <div>
-      hello New York
+      hello World
     </div>
   )
 }
